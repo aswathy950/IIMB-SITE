@@ -1,40 +1,40 @@
 @font-face {
   font-family: "Calibri";
-  src: url('/fonts/calibri/calibri.ttf');
+  src: url('../fonts/calibri/calibri.ttf');
 }
 @font-face {
   font-family: "Calibri-Bold";
-  src: url('/fonts/calibri/calibrib.ttf');
+  src: url('../fonts/calibri/calibrib.ttf');
 }
 @font-face {
   font-family: "Calibri-Italic";
-  src: url('/fonts/calibri/calibrii.ttf');
+  src: url('../fonts/calibri/calibrii.ttf');
 }
 @font-face {
   font-family: "Calibri-Bold-Italic";
-  src: url('/fonts/calibri/calibriz.ttf');
+  src: url('../fonts/calibri/calibriz.ttf');
 }
 @font-face {
   font-family: "RobotoSlab-Bold";
-  src: url('/fonts/Roboto Slab/RobotoSlab-Bold.ttf');
+  src: url('../fonts/Roboto Slab/RobotoSlab-Bold.ttf');
 }
 @font-face {
   font-family: "OpenSans";
-  src: url('/fonts/Open Sans/OpenSans-Regular.ttf');
+  src: url('../fonts/Open Sans/OpenSans-Regular.ttf');
 }
 @font-face {
   font-family: "Georgia-Italic";
-  src: url('/fonts/Georgia/georgiai.ttf');
+  src: url('../fonts/Georgia/georgiai.ttf');
 }
 @font-face {
   font-family: "Georgia-Bold-Italic";
-  src: url('/fonts/Georgia/georgiaz.ttf');
+  src: url('../fonts/Georgia/georgiaz.ttf');
 }
 @font-face {
   font-family: "Helvetica-Neue-Light";
-  src: url('/fonts/Helvetica/HelveticaNeueLight.ttf');
+  src: url('../fonts/Helvetica/HelveticaNeueLight.ttf');
 }
 @font-face {
   font-family: "Helvetica-Neue-Bold";
-  src: url('/fonts/Helvetica/helvetica-neue-bold.ttf');
+  src: url('../fonts/Helvetica/helvetica-neue-bold.ttf');
 }
