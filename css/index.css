@@ -148,7 +148,7 @@ body {
   }
   .submitform {
     display: block;
-    background-image: url("/images/search_icon.png");
+    background-image: url("../images/search_icon.png");
     background-repeat: no-repeat;
     height: 26px;
     width: 28px;
@@ -298,7 +298,7 @@ input#searching {
   float: right;
   margin-top: 20px;
   padding-left: 7px;
-  background-image: url("/images/search_icon.png");
+  background-image: url("../images/search_icon.png");
   background-repeat: no-repeat;
   background-position: right;
 }
