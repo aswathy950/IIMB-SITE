@@ -162,7 +162,7 @@ body {
   }
   .submitbutton {
     display: block;
-    background-image: url("/images/menu-icon-dna.png");
+    background-image: url("../images/menu-icon-dna.png");
     background-repeat: no-repeat;
     height: 26px;
     width: 28px;
@@ -334,7 +334,7 @@ input#searching:focus {
   color: #686868;
 }
 .social-icon li {
-  background: transparent url("/images/socialIcon_top.png") no-repeat scroll right center;
+  background: transparent url("../images/socialIcon_top.png") no-repeat scroll right center;
   width: 32px;
   height: 30px;
 }
@@ -357,7 +357,7 @@ li#skype {
 .page_links {
   margin: auto;
   height: 39px;
-  background-image: url("/images/topmenu_bg.png");
+  background-image: url("../images/topmenu_bg.png");
   background-size: contain;
 }
 .page_links li {
@@ -468,7 +468,7 @@ p#readmore {
   font-weight: normal;
   font-size: 14px;
   color: #888888;
-  background-image: url("/images/News_icon.png");
+  background-image: url("../images/News_icon.png");
   background-repeat: no-repeat;
   padding-left: 30px;
 }
@@ -486,14 +486,14 @@ p#bottomnews, p#bottomcalender, p#bottomarrow {
   background-repeat: no-repeat;
   padding-left: 20px;
   color: #ff6c00;
-  background-image: url("/images/News_Viewall.png");
+  background-image: url("../images/News_Viewall.png");
 }
 p#smallbottomnews {
   margin-left: 60%;
   background-repeat: no-repeat;
   padding-left: 20px;
   color: #ff6c00;
-  background-image: url("/images/News_Viewall.png");
+  background-image: url("../images/News_Viewall.png");
 }
 .third_container {
   margin: auto;
@@ -525,13 +525,13 @@ p#smallbottomnews {
   margin-bottom: 0px;
 }
 .alerts h2 {
-  background-image: url("/images/alert_ico.png");
+  background-image: url("../images/alert_ico.png");
 }
 .testimonial h2 {
-  background-image: url("/images/testimonials_ico.png");
+  background-image: url("../images/testimonials_ico.png");
 }
 .learning h2 {
-  background-image: url("/images/learnworkshop_ico.png");
+  background-image: url("../images/learnworkshop_ico.png");
 }
 .column {
   margin-left: 10px;
@@ -640,7 +640,7 @@ p#smallbottomnews {
   text-align: left;
 }
 .text3 li {
-  background: transparent url("/images/socialIcon_bottom.png") no-repeat scroll right center;
+  background: transparent url("../images/socialIcon_bottom.png") no-repeat scroll right center;
   width: 32px;
   height: 30px;
   display: inline-block;
@@ -706,7 +706,7 @@ p#read {
   display: inline-block;
   width: 31px;
   height: 30px;
-  background-image: url("/images/banner_navigation.png");
+  background-image: url("../images/banner_navigation.png");
 }
 #prev {
   background-position: 0px 0px;
